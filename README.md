@@ -1,2 +1,5 @@
-# Controle-de-ponto-e-acesso
-Criação de um controle de ponto e acesso usando Spring boot 
+# diolive
+
+Api rest para gerenciamento de ponto e controle de acesso.
+
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
